@@ -24,7 +24,7 @@ Welcome to **Taco Shop Online**, the official website for our taco shop! This pr
 
 ## How to View the Website
 
-1. doownload the source file:
+1. Download the source file:
    ```bash
    [git clone <repository-url>](https://codeload.github.com/froggyjitu/Taco_Shop_Online/zip/refs/heads/main)
 2. Extract all files
