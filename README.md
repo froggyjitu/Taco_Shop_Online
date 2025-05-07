@@ -13,7 +13,7 @@ Welcome to **Taco Shop Online**, the official website for our taco shop! This pr
 ### ├── main_index.html -Homepage with information about the shop and menu 
 ### ├── main_style.css -Global styles for the website 
 ### ├── time_table.html -Store schedule and special events 
-### ├── img/ -Images used in the website │
+### ├── img/ -Images used in the website
 
 
 ## Features
